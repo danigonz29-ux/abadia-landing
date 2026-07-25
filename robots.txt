@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: __SITE_URL__sitemap.xml
+Sitemap: https://danigonz29-ux.github.io/abadia-landing/sitemap.xml
