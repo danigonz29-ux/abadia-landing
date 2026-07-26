@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.luisenriqueabadiagarcia.com/sitemap.xml
+Sitemap: https://danigonz29-ux.github.io/abadia-landing/sitemap.xml
