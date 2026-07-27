@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://danigonz29-ux.github.io/abadia-landing/sitemap.xml
+Sitemap: https://kikeabadiagarcia.com/sitemap.xml
